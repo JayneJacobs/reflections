@@ -1,0 +1,20 @@
+Why are we saying to create something in Git when the assumption is if I knew  how to use Git I would not be in this course?
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	You could develop a bank of code based on experience to use in the future. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	You could forget to commit the change and lose changes. 
+	You could commit before you really should and create too many versions
+	The commit could be created before a problem is fixed. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	Because many files are interdependant and changes should update multiple files
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+
+ Version Control of my course work. 

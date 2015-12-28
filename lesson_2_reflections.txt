@@ -1,0 +1,5 @@
+
+
+What happens when you initilaize a repository? Why do you need to do it?
+     To track changes git logs commits and diff results for each commit.
+
