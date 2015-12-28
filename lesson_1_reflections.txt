@@ -18,3 +18,5 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
 
  Version Control of my course work. 
+ This is complete now!
+

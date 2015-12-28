@@ -1,5 +1,7 @@
 
 
 What happens when you initilaize a repository? Why do you need to do it?
-     To track changes git logs commits and diff results for each commit.
+     To track changes git logs commits and diff results for each commit.How is the staging area different from the working directory and the repository? What value do you think it offers?
+     It is a point where changes are tracked before they are commited. 
+this is a change
 
