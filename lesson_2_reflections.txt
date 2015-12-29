@@ -20,3 +20,17 @@ After every change use diff. After every logical change add the file to staging 
 
 How do the diagrams help you visualize the branch structure?
   They allow logical path to be traced for each commit. 
+  home (master) reflections $ git remote
+origin
+git remote -v
+example  git push origin master
+then Username
+Then Password
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 699 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/JayneJacobs/reflections.git
+   08ef530..ab02ae5  master -> master
+
