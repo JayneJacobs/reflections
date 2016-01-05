@@ -27,4 +27,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If I wanted to make a different release with different options I may want to add a feature to a branch. It may or may not merge back to the master but if it did the master could have additional differenes from the branch after a merge. 
